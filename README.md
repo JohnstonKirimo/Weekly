@@ -1,3 +1,6 @@
-### analyzing bike routes usage
-### Analysis using large datasets
-##### This analysis focuses on showing how to conduct exploratory data analysis to fully understand the data one is dealing with weekly data analysis projects using python/pandas
+#### Loading and Cleaning Messy Datasets
+
+- This script is intended to show how to load a data file that is messy 
+- Data cleaning using simple pyhon/pandas 
+- Performing some basic data analysis and visualization better understand the data
+- The file contains raw data on biking statistics by the paths which the bikers chose and the dates they went biking
